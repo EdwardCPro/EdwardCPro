@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @EdwardCPro
+- 👀 I'm a solo roblox developer.
+- 🌱 I’m currently learning javaScript (Greenfoot) I know LUA.
+- 📫 How to reach me: Edward1113332023@outlook.com
+- 😄 Pronouns: normal he/him
+- ⚡ Fun fact: I don't like python.
